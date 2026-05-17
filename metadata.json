@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Explore English with Masud Sir",
+  "description": "A comprehensive English Learning Management System (LMS) featuring course management, AI-powered practice bots, student dashboards, and teacher controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
